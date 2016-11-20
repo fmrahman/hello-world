@@ -1,0 +1,3 @@
+Log analytics work started.
+
+More work to do.
